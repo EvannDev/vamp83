@@ -582,7 +582,7 @@ export default function Home() {
                   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                     <rect x="2" y="5" width="20" height="14" rx="2"/><path d="M3 7l9 6 9-6"/>
                   </svg>
-                  <a href="mailto:vamp83@orange.fr">vamp83@orange.fr</a>
+                  <a href="mailto:mail@gmail.fr">mail@gmail.fr</a>
                 </li>
                 <li className="row">
                   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">

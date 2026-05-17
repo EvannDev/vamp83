@@ -495,7 +495,7 @@ export default function CompetitionsPage() {
             <div className="logo__text"><b>VAMP83</b><span>EST. 1984 · PIERREFEU</span></div>
           </a>
           <span className="slogan">↳ Une grande famille depuis 1984</span>
-          <span className="copy">© 2026 VAMP83 · vamp83@orange.fr · Pierrefeu-du-Var (83)</span>
+          <span className="copy">© 2026 VAMP83 · mail@gmail.fr · Pierrefeu-du-Var (83)</span>
         </div>
       </footer>
     </>
