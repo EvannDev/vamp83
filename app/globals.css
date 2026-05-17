@@ -682,10 +682,10 @@ footer::before {
 }
 .photo::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0,0,0,.05) 0%, rgba(0,0,0,.25) 60%, rgba(0,0,0,.55) 100%); }
 .photo--clean::after { display: none; }
-.photo--hero  { background-image: url('/hero-jump.png'); }
-.photo--sunset { background-image: url('/race-sunset.png'); }
+.photo--hero  { background-image: url('/hero.png'); }
+.photo--sunset { background-image: url('/race.png'); }
 .photo--day   { background-image: url('/track-day.png'); }
-.photo--piste { background-image: url('/race-sunset.png'); background-position: center 40%; }
+.photo--piste { background-image: url('/race.png'); background-position: center 40%; }
 .photo--pink  { background-image: url('/club-fly-pink.jpg'); }
 .photo--banked { background-image: url('/club-banked-yellow.jpg'); }
 .photo--sand  { background-image: url('/club-sand-jump.jpg'); }
